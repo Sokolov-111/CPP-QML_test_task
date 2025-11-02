@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/UI/LoginPage.qml</file>
+        <file alias="MainPage.qml">src/UI/MainPage.qml</file>
+    </qresource>
+</RCC>
